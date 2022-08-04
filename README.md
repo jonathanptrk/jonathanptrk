@@ -19,7 +19,7 @@ Front-End:
 
 Back-End:
 
-<img src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)" /> 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> 
 
 Frameworks: 
 <img src="" />
