@@ -1,3 +1,3 @@
-### Hi everyone, welcome in my profile 👋
+### Hi everyone, welcome to my profile 👋
 
 
