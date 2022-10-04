@@ -1,5 +1,7 @@
 ### Hi everyone, welcome to my profile 👋
 
+Graduating in Information Systems at PUC Minas, I am a professional in the area of software development looking an opportunity with back-end developer. Currently I have focused on developing my knowledge in Java and learning new technologies.
+
 ### Contact me:
 
 <a href="https://mailto:jonathanptrk18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
