@@ -8,7 +8,7 @@ Graduating in Information Systems at PUC Minas, I am a professional in the area 
 <a href="https://api.whatsapp.com/send?phone=5531973398362&text=Entrar%20em%20contato%20com%20Jonathan"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a><a href="https://www.instagram.com/jonathanptrk_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ### Activity:
-![jonathanptrk GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanptrk&show_icons=true&theme=radical)
+![jonathanptrk GitHub stats]([https://github-readme-stats.vercel.app/api?username=jonathanptrk&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username={jonathanptrk}&theme=blue-green))
 
 ### Technologies I use on a daily basis:
 
