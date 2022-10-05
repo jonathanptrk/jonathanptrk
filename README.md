@@ -9,7 +9,7 @@ Graduating in Information Systems at PUC Minas, I am a professional in the area 
 
 ### Activity:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={jonathanptrk}&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?jonathanptrk={jonathanptrk}&theme=blue-green"/>
 
 ### Technologies I use on a daily basis:
 
